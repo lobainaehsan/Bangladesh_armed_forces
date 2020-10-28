@@ -1,0 +1,48 @@
+			
+			/*css of id of head-2*/
+			#head-2{
+				color:yellow;
+				background-image:url('download.jpg'); 
+				background-repeat:repeat;
+				background-position:center; 
+				border: 2px dashed red;
+				border-radius: 20px;
+				margin-left:500px;
+			    margin-right:500px;
+			}
+			/*css of id of p-1*/
+			#p-1{
+				border-bottom:3px double red;
+				margin-right:700px;
+
+			}
+			/*css of class of heaing-2*/
+			.heading-2{
+				text-align: center;
+			    margin-left:300px;
+			    margin-right: 300px;
+			    color: yellow;
+			    background-color:#228B22;	
+			    border:2px dotted black;
+			    border-radius: 10px;
+			}
+			/*css of class of img-1*/
+			.img-1{
+				height: 300px;
+				width:300px;
+				margin-left: 300px;
+				margin-right: 300px;
+			}
+			/*css oh class of img-2*/
+			.img-2{
+				height:300px; 
+				width:400px;
+				border-radius:20px;
+				border: 5px solid black;
+			}
+			/*css of class of list-1*/
+			.list-1{
+				margin-left: 400px;
+				margin-right: 400px;
+				color: blue;
+			}
